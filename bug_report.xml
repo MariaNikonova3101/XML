@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<BugReport>
+	<ID>235</ID>
+	<Severity>Minor</Severity>
+	<Environment>Redmi Note 11 (Android 11, Chrome)</Environment>
+	<Title>Search input field' does not work on all language exept EN</Title>
+	<Steps>
+		<Step1>1. Navigate to capital.com.</Step1>
+		<Step2>2. Click [Navicom] button in right up corner.</Step2>
+		<Step3>3. Iinput texton chosen language.</Step3>
+		<Step4>4. Click  [lupa] button or arrow on screen keyboard.</Step4>
+	</Steps>
+	<ExpectedResult>Seen articles by our input in"Search field input</ExpectedResult>
+	<ActualResult>The page is twitching, its very annoy</ActualResult>
+</BugReport>
